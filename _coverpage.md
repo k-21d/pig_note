@@ -10,5 +10,5 @@
 - Spring
 - ...
 
-[GitHub](https://github.com/k-21d/)
-[Get Started](#docsify)
+[GitHub](https://github.com/k-21d/pig_note)
+[Get Started](#/md/pig_note)
